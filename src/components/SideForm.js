@@ -7,7 +7,7 @@ import drink from "../images/sides/drink.png";
 import taco from "../images/sides/taco.png";
 import tortilla from "../images/sides/tortilla.png";
 
-function SideForm(props) {
+export default function SideForm(props) {
   return (
     <>
       <h1>
